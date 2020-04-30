@@ -14,7 +14,7 @@ import com.uca.capas.tareaLabo3.domain.Product;
 @Controller
 public class MainController {
 	
-	private List<Product> productos = new ArrayList<>();
+	private List<Product> productos = new ArrayList<Product>();
 	
 	@GetMapping("/compraProducto")
 	public ModelAndView compraProducto() {
