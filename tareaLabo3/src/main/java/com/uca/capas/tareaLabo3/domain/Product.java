@@ -1,4 +1,4 @@
-package com.uca.capas.domain;
+package com.uca.capas.tareaLabo3.domain;
 
 public class Product {
 

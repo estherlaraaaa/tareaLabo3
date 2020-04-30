@@ -1,4 +1,4 @@
-package com.uca.capas.controller;
+package com.uca.capas.tareaLabo3.controller;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.uca.capas.domain.Product;
+import com.uca.capas.tareaLabo3.domain.Product;
 
 @Controller
 public class MainController {
